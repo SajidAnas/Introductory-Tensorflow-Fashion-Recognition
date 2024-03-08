@@ -1,1 +1,0 @@
-You will probably need an older version of tensorflow or a Linux operating system to run this project. Tensorflow is now split into tensorflow-cpu and tensorflow-gpu on Windows so the import will cause an error.
